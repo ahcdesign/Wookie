@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "Wookie",
-    "slug": "Wookie",
+    "slug": "wookie",
     "privacy": "public",
     "sdkVersion": "35.0.0",
     "platforms": [
@@ -24,7 +24,17 @@
       "**/*"
     ],
     "ios": {
-      "supportsTablet": true
+      "supportsTablet": true,
+      "bundleIdentifier": "com.wookie.expo.googlesignin",
+      "config": {
+        "googleSignIn": {
+          "reservedClientId": "com.googleusercontent.apps.132117305548-m04hjamjncdia5qt4hlufn90us853a93"
+        }
+      }
+    },
+    "android": {
+      "package": "com.wookie.expo.googlesignin",
+      "googleServicesFile": "./google-services.json"
     }
   }
 }

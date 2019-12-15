@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "132117305548",
+    "firebase_url": "https://wookie-b28fa.firebaseio.com",
+    "project_id": "wookie-b28fa",
+    "storage_bucket": "wookie-b28fa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:132117305548:android:b0e22ac3a5f01ab45d0a69",
+        "android_client_info": {
+          "package_name": "com.wookie.expo.googlesignin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "132117305548-qudtqao10p7a4ejvt12dkt1vfgr8iuuk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.wookie.expo.googlesignin",
+            "certificate_hash": "3f983301052db3bbfa4eaec47ab73264485f8898"
+          }
+        },
+        {
+          "client_id": "132117305548-5kivr66dr78st4d3d3r6a65gm99ofggd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqcjioqOwn6X1Gapwf17TZeKIaa5_E_OA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "132117305548-5kivr66dr78st4d3d3r6a65gm99ofggd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
